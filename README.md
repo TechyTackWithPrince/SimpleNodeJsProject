@@ -40,20 +40,28 @@ Alternatively, you can download the Node.js installer from the official website:
 
 1. Clone this repository to your local machine using Git:
 
-```https://github.com/TechyTackWithPrince/SimpleNodeJsProject.git```
+```
+https://github.com/TechyTackWithPrince/SimpleNodeJsProject.git
+```
 
 2. Change directory to the project folder:
 
-```cd simple-nodejs-app```
+```
+cd simple-nodejs-app
+```
 
 3. Install the project dependencies using npm:
 
-```npm install```
+```
+npm install
+```
 
 
 4. Run the server:
 
-```node app.js```
+```
+node app.js
+```
 
 
 5. The server will start running at http://localhost:7000
